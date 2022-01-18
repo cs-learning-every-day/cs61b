@@ -2,3 +2,4 @@
 
 - [code](https://github.com/cs-learning-every-day/cs61b-code)
 - h4实验与Algs4 lab中相同 [my solution](https://github.com/cs-learning-every-day/algs4/tree/main/labs/percolation)
+- Project2C、Project3待做（即week12以后的）
